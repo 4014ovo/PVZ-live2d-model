@@ -1,0 +1,88 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "盖子1"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "盖子2"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "眼睛1"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "眼睛2"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "底子1"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "底子2"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "zzz"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "zzz开关"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		]
+	]
+}
